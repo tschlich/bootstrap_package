@@ -72,11 +72,6 @@ License
 
 This project is released under the terms of the `MIT license <http://en.wikipedia.org/wiki/MIT_License>`_.
 
-Contact
-=======
-
-If you have any questions about this project write me an email at my Github profile: https://github.com/tschlich
-
 Thanks to
 =========
 
