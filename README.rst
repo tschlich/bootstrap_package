@@ -65,7 +65,7 @@ Bug reporting
 
 Please open an `issue here at github`__ and describe your problem.
 
-__ https://github.com/benjaminkott/bootstrap_package/issues
+__ https://github.com/tschlich/bootstrap_package/issues
 
 License
 -------
@@ -75,10 +75,10 @@ This project is released under the terms of the `MIT license <http://en.wikipedi
 Contact
 =======
 
-If you have any questions about this project or just want to talk:
-Write me an email `at my Github profile <https://github.com/tschlich>`.
+If you have any questions about this project write me an email at my [Github profile](https://github.com/tschlich).
 
 Thanks to
 =========
-`Benjamin Kott <https://github.com/benjaminkott>`
+
+[Benjamin Kott](https://github.com/benjaminkott) for his great work on the original [bootstrap_package](https://github.com/benjaminkott/bootstrap_package.git)
 
